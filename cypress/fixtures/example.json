@@ -1,0 +1,21 @@
+{
+  "email": "surensura46@gmail.com",
+  "password": "Test@123",
+
+  "admin":{
+    "email": "surensura46@gmail.com",
+  "password": "Test@123"
+  },
+
+  "PGadmin":{
+    "email": "surensura46@gmail.com",
+  "password": "Test@123"
+  },
+
+  "subscriber":{
+    "email": "surensura46@gmail.com",
+  "password": "Test@123"
+  }
+
+}
+
